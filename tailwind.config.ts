@@ -12,6 +12,9 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontWeight: {
+        'normal-medium': '450', // Custom font weight
+      },
     },
   },
   plugins: [],
