@@ -42,7 +42,7 @@ const About = () => {
                         <p className='p-1 rounded-2xl primary'>About</p>
                     </div>
                     <img src="james.jpeg" alt="James Oluwaleye" className='h-24 w-24 rounded-full' />
-                    <h1 className='text-[2rem] font-normal-medium flex max-w-4xl pt-5 leading-[130%]' >
+                    <h1 className='text-[1.3rem] lg:text-[2rem]  font-normal-medium flex max-w-4xl pt-5 leading-[130%]' >
                         James is a front-end engineer and technical writer, passionate about creating seamless user experiences and sharing knowledge through clear, concise technical content.
                     </h1>
                     <p className='pt-20 pb-6 text-gray-500'>Open for any collaborations and offers</p>

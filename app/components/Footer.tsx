@@ -3,7 +3,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='max-w-8xl px-8 flex justify-between pt-4 pb-8'>
+    <div className='max-w-8xl px-8 flex text-sm lg:text-md justify-between pt-4 pb-8'>
         <p className='text-gray-500'>© 2024 James Oluwaleye</p>
         <div className='flex gap-x-4 text-gray-500 cursor-pointer'>
           <Link href='/roadmap'>

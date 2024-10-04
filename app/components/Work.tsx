@@ -44,7 +44,7 @@ const Work: React.FC = () => {
                 <div className="lg:w-[400px] pt-2 pb-3 cursor-pointer group">
                   <p className="text-[1rem] text-gray-500">{title}</p>
                   <div className="flex gap-20 justify-between items-center">
-                    <p className="text-[1.5rem] font-[400]">{job}</p>
+                    <p className="text-[1.1rem] lg:text-[1.5rem] font-[400]">{job}</p>
                     {/* Arrow Container */}
                     <div className="border border-slate-200 px-3 rounded-2xl flex items-center justify-center overflow-hidden transition-colors duration-200 ease-in-out group-hover:bg-white">
                       {/* Arrow Icon */}

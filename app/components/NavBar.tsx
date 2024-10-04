@@ -10,7 +10,7 @@ const NavBar = () => {
             James Oluwaleye
           </h2>
           </Link>
-          <p className='text-gray-500'>
+          <p className='text-gray-500 hidden md:block'>
             Latest Update: Oct 1st 2024
           </p>
         </div>

@@ -47,13 +47,13 @@ const Final = () => {
             <div className='flex flex-col bg-slate-100 w-full rounded-xl box-border px-12 py-4'>
               <p className='p-1 w-24 rounded-2xl primary px-4'>Service</p>
               <div className='pt-20'>
-                <p className='py-2 text-[1.5rem] relative'>Technical Writing <span className='text-xs absolute sm:right-[9rem] pl-1 lg:right-[9.3rem] text-gray-500 top-3'>(01)</span></p>
+                <p className='py-2 text-[1.1rem] lg:text-[1.5rem] relative'>Technical Writing <span className='text-xs absolute sm:right-[9rem] pl-1 lg:right-[9.3rem] text-gray-500 top-3'>(01)</span></p>
                 <hr />
-                <p className='py-2 relative text-[1.5rem]'>Web Development <span className='text-xs absolute sm:right-[8rem] pl-1 lg:right-[8.3rem] text-gray-500 top-3'>(02)</span></p>
+                <p className='py-2 relative text-[1.1rem] lg:text-[1.5rem]'>Web Development <span className='text-xs absolute sm:right-[8rem] pl-1 lg:right-[8.3rem] text-gray-500 top-3'>(02)</span></p>
                 <hr />
-                <p className='py-2 relative text-[1.5rem]'>Web Maintenance <span className='text-xs absolute sm:right-[8.2rem] pl-1 lg:right-[8.5rem] text-gray-500 top-3'>(03)</span></p>
+                <p className='py-2 relative text-[1.1rem] lg:text-[1.5rem]'>Web Maintenance <span className='text-xs absolute sm:right-[8.2rem] pl-1 lg:right-[8.5rem] text-gray-500 top-3'>(03)</span></p>
                 <hr />
-                <p className='py-2 relative text-[1.5rem]'>Blogging <span className='text-xs absolute sm:right-[14.2rem] pl-1 lg:right-[14.5rem] text-gray-500 top-3'>(04)</span></p>
+                <p className='py-2 relative text-[1.1rem] lg:text-[1.5rem]'>Blogging <span className='text-xs absolute sm:right-[14.2rem] pl-1 lg:right-[14.5rem] text-gray-500 top-3'>(04)</span></p>
               </div>
             </div>
 
@@ -63,7 +63,7 @@ const Final = () => {
               <p className='pt-20 px-2 '>Let’s make something special together</p>
               <a 
               href="mailto:Jamesoluwaleye@gmail.com" 
-              className="text-[1.7rem] px-2 font-normal-medium hover:text-gray-500 hover:no-underline transition-colors duration-200"
+              className="text-[1.3rem] lg:text-[1.7rem] px-2 font-normal-medium hover:text-gray-500 hover:no-underline transition-colors duration-200"
             >
               Jamesoluwaleye@gmail.com
             </a>
