@@ -16,7 +16,7 @@ const Final = () => {
           </div>
           <div className='absolute bottom-4 right-4'>
             <p className='text-[1.5rem] text-white font-normal-medium px-10'>
-              "Writing clean code, and writing about it just as clearly."
+            &quot;Writing clean code, and writing about it just as clearly.&quot;
             </p>
           </div>
         </div>

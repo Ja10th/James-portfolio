@@ -2,7 +2,17 @@ import Link from 'next/link'
 import React from 'react'
 import { FaArrowRight } from 'react-icons/fa'
 
-const Intro = ({ project, text, client, service, year, href, projectLink} : any) => {
+interface Project {
+    project: string,
+    text: string,
+    client: string,
+    service: string,
+    year: string,
+    href: string,
+    projectLink: string,
+}
+
+const Intro = ({ project, text, client, service, year, href, projectLink} : Project) => {
   return (
     <section>
             <div className='py-20'>

@@ -1,6 +1,5 @@
 import React from 'react'
 import HomePage from '../components/HomePage'
-import { FaArrowRight } from 'react-icons/fa'
 import Link from 'next/link'
 import Footer from '../components/Footer'
 import Intro from '../components/Intro'
