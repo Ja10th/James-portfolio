@@ -28,7 +28,7 @@ const Cache = () => {
        </p>
      </section>
      <div className='px-8'>
-       <img src="https://www.keycdn.com/img/blog/website-performance-optimization.png" alt="Tricentis Blog" className='rounded-xl h-[300px] lg:h-[750px] lg:w-full my-10' />
+       <img src="https://www.keycdn.com/img/blog/website-performance-optimization.png" alt="Tricentis Blog" className='rounded-xl w-full h-auto md:h-[500px] lg:h-[750px] object-cover my-10' />
      </div>
      <section>
          <div className='py-10 text-center'>

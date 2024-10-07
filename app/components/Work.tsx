@@ -58,18 +58,18 @@ const Work: React.FC = () => {
         </div>
         <div className="flex justify-center items-center ">
             <div className="overflow-hidden relative rounded-xl max-w-[900px] w-full h-auto">
-                <Link href='https://infoworld-9zewfkuph-ja10ths-projects.vercel.app/'> 
+                <Link href='/featured-project'> 
                 <img
-                src="mbb.png"
+                src="dashy.png"
                 alt="Work example"
                 className="w-[900px] h-auto max-h-[500px] object-cover transition-transform duration-200 ease-in-out hover:scale-110"
                 />
                 </Link>
                 <Link
-                href='https://infoworld-9zewfkuph-ja10ths-projects.vercel.app/'
+                href='https://infoworld-six.vercel.app/'
                 className='flex absolute gap-2 z-20 top-7 left-6'>
                     <p className='p-1 rounded-2xl primary px-4'>Featured Project</p>
-                    <p className='p-1 rounded-2xl bg-black bg-opacity-25 text-white px-4'>E-commerce</p>
+                    <p className='p-1 rounded-2xl bg-black bg-opacity-25 text-white px-4'>E-commerce Dashboard</p>
                 </Link>
             </div>
         </div>

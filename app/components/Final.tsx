@@ -68,12 +68,12 @@ const Final = () => {
               Jamesoluwaleye@gmail.com
             </a>
 
-              <hr className='mt-24 border-slate-300' />
+              <hr className='mt-24 border-slate-50' />
               <div className='flex gap-6 px-2 mt-2 text-gray-500 '>
-                <a href='mailto:Jamesoluwaleye@gmail.com' className='hover:text-gray-400'>Email</a>
-                <a href='https://github.com/ja10th' className='hover:text-gray-400'>Github</a>
-                <a href='https://twitter.com/ja10th' className='hover:text-gray-400'>Twitter</a>
-                <a href='mailto:Jamesoluwaleye@gmail.com' className='hover:text-gray-400'>CV</a>
+                <a href='mailto:Jamesoluwaleye@gmail.com' className='hover:text-black'>Email</a>
+                <a href='https://github.com/Ja10th/James-portfolio' className='hover:text-black'>Github</a>
+                <a href='https://twitter.com/ja10th' className='hover:text-black'>Twitter</a>
+                <a href='mailto:Jamesoluwaleye@gmail.com' className='hover:text-black'>CV</a>
               </div>
             </div>
           </div>

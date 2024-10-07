@@ -25,9 +25,9 @@ const Narrify = () => {
                 articles designed to drive visibility and interaction while being fully optimized for SEO. The website seamless user experience supports the mission by ensuring easy navigation and a clean, modern design. Narrify Blog is where unique voices meet insightful tech writing, always aiming to add value and originality.</p>
         </div>
         <section className='px-8 overflow-hidden'>
-            <img src="narrify.gif" alt="Narrify Blog" className='rounded-xl h-[300px] lg:h-[750px] lg:w-full my-10' />
-            <img src="blogg.gif" alt="Narrify Blog" className='rounded-xl h-[300px] lg:h-[750px] lg:w-full my-10' />
-            <img src="narrifyy.gif" alt="Narrify Blog" className='rounded-xl h-[300px] lg:h-[750px] lg:w-full my-10' />
+            <img src="narrify.gif" alt="Narrify Blog" className='rounded-xl w-full h-auto md:h-[500px] lg:h-[750px] object-cover my-10' />
+            <img src="blogg.gif" alt="Narrify Blog" className='rounded-xl w-full h-auto md:h-[500px] lg:h-[750px] object-cover my-10' />
+            <img src="narrifyy.gif" alt="Narrify Blog" className='rounded-xl w-full h-auto md:h-[500px] lg:h-[750px] object-cover my-10' />
         </section>
         <section>
             <div className='py-10 text-center'>
