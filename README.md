@@ -1,4 +1,4 @@
-# James Oluwaleye Projects
+# James Oluwaleye Featured Projects
 [Check portfolio here](https://ayokf.vercel.app)
 
 ## E-commerce stores
