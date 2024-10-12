@@ -32,8 +32,8 @@ const Work: React.FC = () => {
 
   return (
     <div className='flex max-w-8xl justify-between px-8 py-4'>
-      <div className='flex flex-col-reverse gap-2 lg:flex-row'>
-        <div className='flex-1 bg-slate-100 px-8 py-3 rounded-xl'>
+      <div className='flex md:max-w-8xl md:mx-auto flex-col-reverse gap-2 lg:flex-row'>
+        <div className='flex-1 bg-slate-100 px-10 py-3 rounded-xl'>
           <div className='w-[7rem] pt-4 pb-14 text-center'>
             <p className='p-1 rounded-2xl primary'>Recent Work</p>
           </div>
@@ -56,7 +56,7 @@ const Work: React.FC = () => {
             </React.Fragment>
           ))}
         </div>
-        <div className="flex justify-center items-center ">
+        <div className="">
             <div className="overflow-hidden relative rounded-xl max-w-[900px] w-full h-auto">
                 <Link href='/featured-project'> 
                 <img
@@ -66,7 +66,7 @@ const Work: React.FC = () => {
                 />
                 </Link>
                 <Link
-                href='https://infoworld-six.vercel.app/'
+                href='https://jhoppydashy.vercel.app/'
                 className='flex absolute gap-2 z-20 top-7 left-6'>
                     <p className='p-1 rounded-2xl primary px-4'>Featured Project</p>
                     <p className='p-1 rounded-2xl bg-black bg-opacity-25 text-white px-4'>E-commerce Dashboard</p>

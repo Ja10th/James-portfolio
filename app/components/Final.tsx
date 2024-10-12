@@ -73,7 +73,7 @@ const Final = () => {
                 <a href='mailto:Jamesoluwaleye@gmail.com' className='hover:text-black'>Email</a>
                 <a href='https://github.com/Ja10th/James-portfolio' className='hover:text-black'>Github</a>
                 <a href='https://twitter.com/ja10th' className='hover:text-black'>Twitter</a>
-                <a href='mailto:Jamesoluwaleye@gmail.com' className='hover:text-black'>CV</a>
+                <a href='/jamesoluwaleye.pdf'download className='hover:text-black'>CV</a>
               </div>
             </div>
           </div>
