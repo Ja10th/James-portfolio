@@ -12,6 +12,12 @@
 
   <img width="1680" alt="image" src="https://github.com/user-attachments/assets/814e80bc-4875-4d00-979a-8b7a2fd6241b">
 
+## Ride Dashboard
+[Riddy](https://riddydashboard.vercel.app)
+
+<img width="1480" alt="Screenshot 2025-01-29 at 08 28 20" src="https://github.com/user-attachments/assets/1d5f3b5b-b44d-4f36-af6d-19f2753193ae" />
+
+
 ## E-commerce stores
 [Store for watches](https://jwatches.vercel.app/)
 
