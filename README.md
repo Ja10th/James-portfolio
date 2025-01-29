@@ -24,9 +24,11 @@
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/0ff82676-fdac-4fc3-a327-86fdf22f73cf">
 
   
-[Store for phones and laptop](https://infoworld-six.vercel.app/)
+[Store for phones and laptop]([https://infoworld-six.vercel.app/](https://github.com/Ja10th/techstore))
 
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/f9dcea92-512d-4bc6-976b-436981b64aa2">
+<img width="1680" alt="Screenshot 2025-01-29 at 08 51 14" src="https://github.com/user-attachments/assets/f64f03a2-f6aa-49de-b76a-42a666d5d085" />
+
+
 
 
 ## Dashboards
