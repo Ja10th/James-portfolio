@@ -35,9 +35,10 @@
 
 
 ## E-commerce stores
-[Store for watches](https://jwatches.vercel.app/)
+[Store for watches]([https://jwatches.vercel.app/](https://slickmelhorar.netlify.app/))
 
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/0ff82676-fdac-4fc3-a327-86fdf22f73cf">
+<img width="1680" alt="Screenshot 2025-02-10 at 14 17 56" src="https://github.com/user-attachments/assets/20576b29-4a1a-4a99-83a9-23856a5499fb" />
+
 
 
 ## Dashboards
