@@ -1,6 +1,10 @@
 # James Oluwaleye Featured Projects
 [Check portfolio here](https://ayokf.vercel.app)
 
+
+
+
+
 ## CMS system
 [Narrify Agency](https://jaurelblog.vercel.app)
 
@@ -17,6 +21,12 @@
 [Store for phones and laptop]([https://infoworld-six.vercel.app/](https://github.com/Ja10th/techstore))
 
 <img width="1680" alt="Screenshot 2025-01-29 at 08 51 14" src="https://github.com/user-attachments/assets/f64f03a2-f6aa-49de-b76a-42a666d5d085" />
+
+
+## Real Estate
+[RealEstate Fortress](https://fortressmelhorar.netlify.app/)
+
+<img width="1680" alt="Screenshot 2025-02-10 at 09 21 40" src="https://github.com/user-attachments/assets/cfd2ead9-0fc2-43cf-8f51-ac29a4b161cf" />
 
 ## Ride Dashboard
 [Riddy](https://riddydashboard.vercel.app)
