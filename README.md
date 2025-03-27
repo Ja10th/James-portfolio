@@ -24,8 +24,6 @@
   
 ## E-commerce stores
 
-[Store for phones and laptop](https://infoworld-six.vercel.app/)
-
 <img width="1680" alt="Screenshot 2025-01-29 at 08 51 14" src="https://github.com/user-attachments/assets/f64f03a2-f6aa-49de-b76a-42a666d5d085" />
 
 ## E-commerce stores
