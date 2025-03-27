@@ -2,9 +2,6 @@
 [Check portfolio here](https://ayokf.vercel.app)
 
 
-
-
-
 ## CMS system
 [Narrify Agency](https://jaurelblog.vercel.app)
 
@@ -15,6 +12,11 @@
 [Augen Replica](https://my-augen.vercel.app/)
 
   <img width="1680" alt="image" src="https://github.com/user-attachments/assets/814e80bc-4875-4d00-979a-8b7a2fd6241b">
+
+## Video Editor Portfolio
+[Video Editor](https://rad-daifuku-a029b4.netlify.app/)
+
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/85bfbfa8-81aa-4f0a-9125-f83204415d75" />
 
 ## Dashboards
 [Climatechekka AI Dashboard](https://climatechekka.com/)
