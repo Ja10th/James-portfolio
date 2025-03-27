@@ -1,6 +1,4 @@
 # James Oluwaleye Featured Projects
-[Check portfolio here](https://ayokf.vercel.app)
-
 
 ## CMS system
 [Narrify Agency](https://jaurelblog.vercel.app)
