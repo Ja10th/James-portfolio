@@ -24,12 +24,12 @@
   
 ## E-commerce stores
 
-[Store for phones and laptop]([https://infoworld-six.vercel.app/](https://github.com/Ja10th/techstore))
+[Store for phones and laptop](https://infoworld-six.vercel.app/)
 
 <img width="1680" alt="Screenshot 2025-01-29 at 08 51 14" src="https://github.com/user-attachments/assets/f64f03a2-f6aa-49de-b76a-42a666d5d085" />
 
 ## E-commerce stores
-[Store for watches]([https://jwatches.vercel.app/](https://slickmelhorar.netlify.app/))
+[Store for watches](https://slickmelhorar.netlify.app/)
 
 <img width="1680" alt="Screenshot 2025-02-10 at 14 17 56" src="https://github.com/user-attachments/assets/20576b29-4a1a-4a99-83a9-23856a5499fb" />
 
