@@ -1,5 +1,6 @@
 # James Oluwaleye Featured Projects
 
+
 ## CMS system
 [Narrify Agency](https://jaurelblog.vercel.app)
 
@@ -15,6 +16,11 @@
 [Video Editor](https://rad-daifuku-a029b4.netlify.app/)
 
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/85bfbfa8-81aa-4f0a-9125-f83204415d75" />
+
+## Portfolios
+[Marcus portfolio](https://jade-swan-5eae7e.netlify.app/)
+
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/e7fb2e28-a877-4711-8ed4-777e6f15965e" />
 
 ## Dashboards
 [Climatechekka AI Dashboard](https://climatechekka.com/)
