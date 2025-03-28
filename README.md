@@ -36,10 +36,6 @@
 
 <img width="1680" alt="Screenshot 2025-02-10 at 14 17 56" src="https://github.com/user-attachments/assets/20576b29-4a1a-4a99-83a9-23856a5499fb" />
 
-## Real Estate
-[RealEstate Fortress](https://fortressmelhorar.netlify.app/)
-
-<img width="1680" alt="Screenshot 2025-02-10 at 09 21 40" src="https://github.com/user-attachments/assets/cfd2ead9-0fc2-43cf-8f51-ac29a4b161cf" />
 
 
 
