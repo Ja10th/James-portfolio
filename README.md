@@ -13,6 +13,11 @@ I have hands-on experience working with React, TypeScript, Next.js, Tailwind CSS
 
   <img width="1680" alt="image" src="https://github.com/user-attachments/assets/814e80bc-4875-4d00-979a-8b7a2fd6241b">
 
+## Dashboards
+[Climatechekka AI Dashboard](https://climatechekka.com/)
+
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/cf4555d2-b0fd-47f2-b386-de910103c3aa" />
+
 ## Video Editor Portfolio
 [Video Editor](https://rad-daifuku-a029b4.netlify.app/)
 
@@ -22,11 +27,6 @@ I have hands-on experience working with React, TypeScript, Next.js, Tailwind CSS
 [Marcus portfolio](https://jade-swan-5eae7e.netlify.app/)
 
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/e7fb2e28-a877-4711-8ed4-777e6f15965e" />
-
-## Dashboards
-[Climatechekka AI Dashboard](https://climatechekka.com/)
-
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/cf4555d2-b0fd-47f2-b386-de910103c3aa" />
 
   
 ## E-commerce stores
