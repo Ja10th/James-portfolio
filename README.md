@@ -1,5 +1,6 @@
 # James Oluwaleye Featured Projects
 
+I have hands-on experience working with React, TypeScript, Next.js, Tailwind CSS, Firebase Auth, Redux, Version Control, Jquery, Responsive designs, Figma designs implementation, Context API, Sanity CMS, BCMS, CircleCI for CI/CD, MagicUI, and integrating backend APIs.
 
 ## CMS system
 [Narrify Agency](https://jaurelblog.vercel.app)
