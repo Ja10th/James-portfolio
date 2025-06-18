@@ -14,7 +14,7 @@ I have hands-on experience working with React, TypeScript, Next.js, Tailwind CSS
   <img width="1680" alt="image" src="https://github.com/user-attachments/assets/814e80bc-4875-4d00-979a-8b7a2fd6241b">
 
 ## Agency
-[Melhorar Agency]([https://jaurelblog.vercel.app](https://melhorar.vercel.app/))
+[Melhorar Agency](https://melhorar.vercel.app/)
 
 <img width="1680" alt="Screenshot 2025-06-17 at 19 14 12" src="https://github.com/user-attachments/assets/835ee419-6dc9-4b39-a13e-a6e4bc7fc5b5" />
 
