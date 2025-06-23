@@ -1,6 +1,13 @@
 # James Oluwaleye Featured Projects
 
-I have hands-on experience working with React, TypeScript, Next.js, Tailwind CSS, Firebase Auth, Redux, Version Control, Jquery, Responsive designs, Figma designs implementation, Context API, Sanity CMS, BCMS, CircleCI for CI/CD, MagicUI, and integrating backend APIs.
+I have hands-on experience working with React, React Native, TypeScript, Next.js, Tailwind CSS, Firebase Auth, Redux, Version Control, Jquery, Responsive designs, Figma designs implementation, Context API, Sanity CMS, BCMS, CircleCI for CI/CD, MagicUI, and integrating backend APIs.
+
+## Mindful
+
+A journaling app that encourages users to write just three sentences each day. 
+
+![Gold And White Illustrative Grand Opening Poster](https://github.com/user-attachments/assets/656fec48-7b0f-43bf-9c1d-b308ec3b50d1)
+
 
 ## CMS system
 [Narrify Agency](https://jaurelblog.vercel.app)
