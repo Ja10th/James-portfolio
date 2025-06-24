@@ -50,8 +50,13 @@ A journaling app that encourages users to write just three sentences each day.
 
 <img width="1680" alt="Screenshot 2025-02-10 at 14 17 56" src="https://github.com/user-attachments/assets/20576b29-4a1a-4a99-83a9-23856a5499fb" />
 
+## Hotel Website
 
+<img width="1680" alt="Screenshot 2025-03-12 at 11 44 48" src="https://github.com/user-attachments/assets/7d5d8e5b-359c-44be-8f18-9322d8f97d75" />
 
+## Real Estate
+
+<img width="1680" alt="Screenshot 2025-03-12 at 10 22 18" src="https://github.com/user-attachments/assets/c03c2585-3f09-4869-9497-73adf5486dd1" />
 
 
 
