@@ -2,6 +2,13 @@
 
 I have hands-on experience working with React, React Native, TypeScript, Next.js, Tailwind CSS, Firebase Auth, Redux, Version Control, Jquery, Responsive designs, Figma designs implementation, Context API, Sanity CMS, BCMS, CircleCI for CI/CD, MagicUI, and integrating backend APIs.
 
+## Email Marketing tool
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 42 04" src="https://github.com/user-attachments/assets/c0e0ab7a-b00c-4f11-9ae9-b6db57b0a3c1" />
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 41 44" src="https://github.com/user-attachments/assets/f4accdc5-8368-4a09-9038-14e8a47061a1" />
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 41 52" src="https://github.com/user-attachments/assets/a22a1c34-4217-4e06-968e-c602ffee3b0f" />
+
+
 ## Mindful
 
 A journaling app that encourages users to write just three sentences each day. 
