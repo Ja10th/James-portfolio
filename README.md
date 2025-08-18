@@ -2,6 +2,14 @@
 
 I have hands-on experience working with React, React Native, TypeScript, Next.js, Tailwind CSS, Firebase Auth, Redux, Version Control, Jquery, Responsive designs, Figma designs implementation, Context API, Sanity CMS, BCMS, CircleCI for CI/CD, MagicUI, and integrating backend APIs.
 
+## theHowto Forum
+
+[theHowto Forum](https://www.thehowto.forum/)
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 44 33" src="https://github.com/user-attachments/assets/910c009a-ade2-4005-b92c-afb15661255c" />
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 45 59" src="https://github.com/user-attachments/assets/de625794-919a-42ba-9154-8d7f66b21363" />
+
+
 ## Email Marketing tool
 
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 42 04" src="https://github.com/user-attachments/assets/c0e0ab7a-b00c-4f11-9ae9-b6db57b0a3c1" />
