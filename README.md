@@ -1,14 +1,15 @@
 # James Oluwaleye Featured Projects
 
 Hey guys, my name is James Oluwaleye, I'm a MERN stack developer and I love challenges. 
-
+Some of my works include:
 
 ## Site Auditor
+
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 58 19" src="https://github.com/user-attachments/assets/969b67b0-154a-45b8-a1e2-27c62278e672" />
 
 
-
 ## Live Code Editor
+
 [Live Editor](https://live-code-editor-eight.vercel.app/)
 
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 47 00" src="https://github.com/user-attachments/assets/7a5c1009-de8e-49c0-99a3-ee4dc41b6fe0" />
