@@ -2,6 +2,12 @@
 
 I have hands-on experience working with React, React Native, TypeScript, Next.js, Tailwind CSS, Firebase Auth, Redux, Version Control, Jquery, Responsive designs, Figma designs implementation, Context API, Sanity CMS, BCMS, CircleCI for CI/CD, MagicUI, and integrating backend APIs.
 
+## Live Code Editor
+[Live Editor](https://live-code-editor-eight.vercel.app/)
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 47 00" src="https://github.com/user-attachments/assets/7a5c1009-de8e-49c0-99a3-ee4dc41b6fe0" />
+
+
 ## theHowto Forum
 
 [theHowto Forum](https://www.thehowto.forum/)
