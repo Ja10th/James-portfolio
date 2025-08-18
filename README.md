@@ -7,6 +7,14 @@ Some of my works include the below work, so keep scrolling:
 
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 58 19" src="https://github.com/user-attachments/assets/969b67b0-154a-45b8-a1e2-27c62278e672" />
 
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 25 46" src="https://github.com/user-attachments/assets/a2728e46-35ce-4a5f-862f-49763479f4d0" />
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 22 53" src="https://github.com/user-attachments/assets/39f2384a-9ecf-41ae-a8db-c0946bd511b3" />
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 29 26" src="https://github.com/user-attachments/assets/f834afcb-6e3e-4fc2-bf29-b3a6226922fc" />
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 31 44" src="https://github.com/user-attachments/assets/c5e3eab0-6b42-4a73-aecd-070119b65449" />
+
 
 ## Live Code Editor
 
