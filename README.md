@@ -29,6 +29,9 @@ Some of my works include the below work, so keep scrolling:
 
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 44 33" src="https://github.com/user-attachments/assets/910c009a-ade2-4005-b92c-afb15661255c" />
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 45 59" src="https://github.com/user-attachments/assets/de625794-919a-42ba-9154-8d7f66b21363" />
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 17 43 20" src="https://github.com/user-attachments/assets/18470adb-ff78-49df-85de-d111d1be5b7f" />
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 17 43 27" src="https://github.com/user-attachments/assets/90f67cd7-64fe-46cf-881e-9c841278153a" />
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 17 44 14" src="https://github.com/user-attachments/assets/ee07429a-e2bb-46ab-aca8-3c780f23a703" />
 
 
 ## Email Marketing tool
