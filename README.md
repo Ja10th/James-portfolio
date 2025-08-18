@@ -1,6 +1,7 @@
 # James Oluwaleye Featured Projects
 
-I have hands-on experience working with React, React Native, TypeScript, Next.js, Tailwind CSS, Firebase Auth, Redux, Version Control, Jquery, Responsive designs, Figma designs implementation, Context API, Sanity CMS, BCMS, CircleCI for CI/CD, MagicUI, and integrating backend APIs.
+Hey guys, my name is James Oluwaleye, I'm a MERN stack developer and I love challenges. 
+
 
 ## Site Auditor
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 58 19" src="https://github.com/user-attachments/assets/969b67b0-154a-45b8-a1e2-27c62278e672" />
