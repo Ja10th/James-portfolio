@@ -1,7 +1,12 @@
 # James Oluwaleye Featured Projects
 
-Hey guys, my name is James Oluwaleye, I'm a MERN stack developer and I love challenges. 
-Some of my works include the below work, so keep scrolling:
+Hi guys, my name is James Oluwaleye.
+
+I’m a passionate MERN stack developer who loves to solve tough problems and create clean, scalable applications. I enjoy taking on challenges because they help me improve my skills and make a real difference. I also write on tehcnical and non technical topics
+
+Over the years, I’ve worked on many different projects, including dynamic web applications and custom solutions for clients. I focus on writing efficient code, designing user-friendly experiences, and building solutions that not only work well but also look great.
+
+Below are some examples of my work—feel free to check them out and see projects that show my commitment to both functionality and design.
 
 ## Site Auditor
 
