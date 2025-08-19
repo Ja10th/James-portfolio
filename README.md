@@ -40,7 +40,7 @@ Some of my works include the below work, so keep scrolling:
 
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 42 04" src="https://github.com/user-attachments/assets/c0e0ab7a-b00c-4f11-9ae9-b6db57b0a3c1" />
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 41 44" src="https://github.com/user-attachments/assets/f4accdc5-8368-4a09-9038-14e8a47061a1" />
-<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 41 52" src="https://github.com/user-attachments/assets/a22a1c34-4217-4e06-968e-c602ffee3b0f" />
+<img width="1680" height="963" alt="Screenshot 2025-08-19 at 15 58 47" src="https://github.com/user-attachments/assets/4da49d5f-5f14-47c0-81d3-629d757f808b" />
 
 
 ## Mindful
