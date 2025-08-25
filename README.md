@@ -12,6 +12,9 @@ Below are some examples of my work—feel free to check them out and see project
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 14 59 22" src="https://github.com/user-attachments/assets/1fa8e5c0-0d4b-454e-b05f-375b8916fe7d" />
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 14 59 29" src="https://github.com/user-attachments/assets/f8d634fa-c2b6-4280-9219-6686b4c4b9bf" />
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 01 02" src="https://github.com/user-attachments/assets/dd18c0d6-6f95-4db0-bde2-00975820b24b" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 18 50 28" src="https://github.com/user-attachments/assets/85dc0824-2690-4b21-aca6-6e9fc7a37410" />
+
+
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 01 19" src="https://github.com/user-attachments/assets/05dfcd14-ba45-4fdf-8f46-5dcadc639b27" />
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 18 49 10" src="https://github.com/user-attachments/assets/927c78a3-e3ac-4832-bb9e-fb4a1d1e1349" />
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 18 48 44" src="https://github.com/user-attachments/assets/c25f6347-bd67-4752-b1ff-88b93c1a4677" />
