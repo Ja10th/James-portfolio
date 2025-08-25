@@ -11,7 +11,8 @@ Below are some examples of my work—feel free to check them out and see project
 ## Bond(Business Management & Customer Rewards System)
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 14 59 22" src="https://github.com/user-attachments/assets/1fa8e5c0-0d4b-454e-b05f-375b8916fe7d" />
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 14 59 29" src="https://github.com/user-attachments/assets/f8d634fa-c2b6-4280-9219-6686b4c4b9bf" />
-<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 01 02" src="https://github.com/user-attachments/assets/dd18c0d6-6f95-4db0-bde2-00975820b24b" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 19 20 08" src="https://github.com/user-attachments/assets/932f5675-7ff9-4354-a7e1-4b2733832cf9" />
+
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 18 50 28" src="https://github.com/user-attachments/assets/85dc0824-2690-4b21-aca6-6e9fc7a37410" />
 
 
