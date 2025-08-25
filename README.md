@@ -8,6 +8,14 @@ Over the years, I’ve worked on many different projects, including dynamic web 
 
 Below are some examples of my work—feel free to check them out and see projects that show my commitment to both functionality and design.
 
+## Bond(Business Management & Customer Rewards System)
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 14 59 22" src="https://github.com/user-attachments/assets/1fa8e5c0-0d4b-454e-b05f-375b8916fe7d" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 14 59 29" src="https://github.com/user-attachments/assets/f8d634fa-c2b6-4280-9219-6686b4c4b9bf" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 01 02" src="https://github.com/user-attachments/assets/dd18c0d6-6f95-4db0-bde2-00975820b24b" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 01 19" src="https://github.com/user-attachments/assets/05dfcd14-ba45-4fdf-8f46-5dcadc639b27" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 01 48" src="https://github.com/user-attachments/assets/be95119b-bc8a-4685-9fa6-fdad863e1bbb" />
+
+
 ## Site Auditor
 
 <img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 58 19" src="https://github.com/user-attachments/assets/969b67b0-154a-45b8-a1e2-27c62278e672" />
