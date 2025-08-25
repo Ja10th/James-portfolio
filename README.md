@@ -16,19 +16,6 @@ Below are some examples of my work—feel free to check them out and see project
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 01 48" src="https://github.com/user-attachments/assets/be95119b-bc8a-4685-9fa6-fdad863e1bbb" />
 
 
-## Site Auditor
-
-<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 58 19" src="https://github.com/user-attachments/assets/969b67b0-154a-45b8-a1e2-27c62278e672" />
-
-<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 25 46" src="https://github.com/user-attachments/assets/a2728e46-35ce-4a5f-862f-49763479f4d0" />
-
-<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 22 53" src="https://github.com/user-attachments/assets/39f2384a-9ecf-41ae-a8db-c0946bd511b3" />
-
-<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 29 26" src="https://github.com/user-attachments/assets/f834afcb-6e3e-4fc2-bf29-b3a6226922fc" />
-
-<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 31 44" src="https://github.com/user-attachments/assets/c5e3eab0-6b42-4a73-aecd-070119b65449" />
-
-
 ## Live Code Editor
 
 [Live Editor](https://live-code-editor-eight.vercel.app/)
@@ -89,6 +76,12 @@ A journaling app that encourages users to write just three sentences each day.
 [Video Editor](https://rad-daifuku-a029b4.netlify.app/)
 
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/85bfbfa8-81aa-4f0a-9125-f83204415d75" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 31 48" src="https://github.com/user-attachments/assets/2ef5fede-8912-4ea6-a75b-932dcbd492a1" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 31 53" src="https://github.com/user-attachments/assets/82563df6-cf9a-40cd-9e2c-37dee4653495" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 31 59" src="https://github.com/user-attachments/assets/8376c634-0215-4fc5-a4b4-1499f08e0903" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 32 05" src="https://github.com/user-attachments/assets/ca79d03e-6d0a-42c9-8fcd-3ad47ce0b9b3" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 32 21" src="https://github.com/user-attachments/assets/8487aead-f4e3-4f1b-a3b9-b2e8999859ca" />
+
 
 ## Portfolios
 [Marcus portfolio](https://jade-swan-5eae7e.netlify.app/)
@@ -112,7 +105,17 @@ A journaling app that encourages users to write just three sentences each day.
 
 <img width="1680" alt="Screenshot 2025-03-12 at 10 22 18" src="https://github.com/user-attachments/assets/c03c2585-3f09-4869-9497-73adf5486dd1" />
 
+## Site Auditor
 
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 13 58 19" src="https://github.com/user-attachments/assets/969b67b0-154a-45b8-a1e2-27c62278e672" />
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 25 46" src="https://github.com/user-attachments/assets/a2728e46-35ce-4a5f-862f-49763479f4d0" />
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 22 53" src="https://github.com/user-attachments/assets/39f2384a-9ecf-41ae-a8db-c0946bd511b3" />
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 29 26" src="https://github.com/user-attachments/assets/f834afcb-6e3e-4fc2-bf29-b3a6226922fc" />
+
+<img width="1680" height="963" alt="Screenshot 2025-08-18 at 15 31 44" src="https://github.com/user-attachments/assets/c5e3eab0-6b42-4a73-aecd-070119b65449" />
 
 ## Technical Articles
 [Articles by James Oluwaleye](https://github.com/Ja10th/James-Oluwaleye-Portfolio)
