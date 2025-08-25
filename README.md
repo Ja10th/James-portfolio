@@ -60,15 +60,32 @@ A journaling app that encourages users to write just three sentences each day.
 [Augen Replica](https://my-augen.vercel.app/)
 
   <img width="1680" alt="image" src="https://github.com/user-attachments/assets/814e80bc-4875-4d00-979a-8b7a2fd6241b">
+  <img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 34 41" src="https://github.com/user-attachments/assets/5b161631-329f-4dc9-8fd8-229ac53a9e6a" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 34 59" src="https://github.com/user-attachments/assets/4724ccfb-73a2-494c-9fc6-df5286864cb3" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 35 06" src="https://github.com/user-attachments/assets/86a2be09-6d3e-4eb5-8fc0-17744053e20b" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 35 13" src="https://github.com/user-attachments/assets/5ecdec4b-3f90-4fb2-b437-c325dc3dc026" />
+
 
 ## Agency
-[Melhorar Agency](https://melhorar.vercel.app/)
+[Melhorar Agency](https://melhorar.co/)
 
 <img width="1680" alt="Screenshot 2025-06-17 at 19 14 12" src="https://github.com/user-attachments/assets/835ee419-6dc9-4b39-a13e-a6e4bc7fc5b5" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 43 26" src="https://github.com/user-attachments/assets/39702160-12eb-4ea0-ab9d-3d44837affa6" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 43 40" src="https://github.com/user-attachments/assets/997ffd5f-ce62-4dbb-b13a-f41a40358da6" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 43 56" src="https://github.com/user-attachments/assets/c30d69cf-9b77-4f8c-bae5-0ee73c075fc0" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 44 02" src="https://github.com/user-attachments/assets/9482f802-3e11-4326-916d-bf4f94ca8bb9" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 44 10" src="https://github.com/user-attachments/assets/857b5a68-d9a1-4f63-af24-98fb55ff7776" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 44 26" src="https://github.com/user-attachments/assets/fd879717-3347-473c-95d5-e22eff8499ce" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 44 30" src="https://github.com/user-attachments/assets/9d9617cf-7e2c-4f59-b563-055af306611e" />
+
 
 
 ## Dashboards
 [Climatechekka AI Dashboard](https://climatechekka.com/)
+
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 41 47" src="https://github.com/user-attachments/assets/8bbbd320-9dee-4d2e-8c60-b16d083b8a39" />
+
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 41 58" src="https://github.com/user-attachments/assets/e0cb0dbd-6373-443b-830f-726949e21a62" />
 
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/cf4555d2-b0fd-47f2-b386-de910103c3aa" />
 
@@ -87,6 +104,9 @@ A journaling app that encourages users to write just three sentences each day.
 [Marcus portfolio](https://jade-swan-5eae7e.netlify.app/)
 
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/e7fb2e28-a877-4711-8ed4-777e6f15965e" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 37 57" src="https://github.com/user-attachments/assets/4b1b8b1e-3e55-41cb-a60b-d634fb36e690" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 38 06" src="https://github.com/user-attachments/assets/e0059528-0dad-432b-9f74-78225efb4975" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 38 13" src="https://github.com/user-attachments/assets/52516771-1950-423d-bd31-5c6228592d6b" />
 
   
 ## E-commerce stores
@@ -96,6 +116,12 @@ A journaling app that encourages users to write just three sentences each day.
 [Store for watches](https://slickmelhorar.netlify.app/)
 
 <img width="1680" alt="Screenshot 2025-02-10 at 14 17 56" src="https://github.com/user-attachments/assets/20576b29-4a1a-4a99-83a9-23856a5499fb" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 36 17" src="https://github.com/user-attachments/assets/cb47c5dd-dacb-4671-8597-bde8b9c611dc" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 36 23" src="https://github.com/user-attachments/assets/50f2a7ec-f5d8-4c6d-973d-1167bd1ede3d" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 36 23 1" src="https://github.com/user-attachments/assets/da95004b-9f50-4a0b-a60d-0d3f5e5a779d" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 36 32" src="https://github.com/user-attachments/assets/1f9bf68c-eb27-4de4-8f6f-2cdecc9151b5" />
+<img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 36 38" src="https://github.com/user-attachments/assets/cfee7c50-3cf6-4e5e-8a79-7c5d47fbeb97" />
+
 
 ## Hotel Website
 
