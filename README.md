@@ -19,6 +19,9 @@ Below are some examples of my work—feel free to check them out and see project
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 15 01 19" src="https://github.com/user-attachments/assets/05dfcd14-ba45-4fdf-8f46-5dcadc639b27" />
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 18 49 10" src="https://github.com/user-attachments/assets/927c78a3-e3ac-4832-bb9e-fb4a1d1e1349" />
 <img width="1680" height="962" alt="Screenshot 2025-08-25 at 18 48 44" src="https://github.com/user-attachments/assets/c25f6347-bd67-4752-b1ff-88b93c1a4677" />
+<img width="1680" height="962" alt="Screenshot 2025-08-29 at 15 59 14" src="https://github.com/user-attachments/assets/e036a14b-b5b6-4359-b363-62e6907b4051" />
+<img width="1680" height="962" alt="Screenshot 2025-08-29 at 15 59 30" src="https://github.com/user-attachments/assets/59cdfe1f-afb8-459d-9ccb-159a1d8cc045" />
+<img width="1680" height="962" alt="Screenshot 2025-08-29 at 15 59 36" src="https://github.com/user-attachments/assets/8a593394-a019-4ef5-8925-2f706e6d7636" />
 
 
 ## Live Code Editor
